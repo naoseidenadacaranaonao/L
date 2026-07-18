@@ -1,0 +1,222 @@
+{
+  "roblox_user_10080348379": {
+    "type": "Owner",
+    "expires": null
+  },
+  "deluxe_studios": {
+    "type": "Owner",
+    "expires": null
+  },
+  "olidragon210": {
+    "type": "Admin",
+    "expires": null
+  },
+  "enzola1237xb": {
+    "type": "Admin",
+    "expires": null
+  },
+  "japinha_mimiu": {
+    "type": "Admin",
+    "expires": null
+  },
+  "fezfriz": {
+    "type": "Admin",
+    "expires": null
+  },
+  "jackmully790": {
+    "type": "Admin",
+    "expires": null
+  },
+  "ninoezekielgael": {
+    "type": "Admin",
+    "expires": null
+  },
+  "corrupted_vr800alt": {
+    "type": "Admin",
+    "expires": null
+  },
+  "pnfmfpyb": {
+    "type": "Admin",
+    "expires": "30/12/9999"
+  },
+  "robloxian_uv30thinq": {
+    "type": "Admin",
+    "expires": "12/12/2028"
+  },
+  "s4d_607": {
+    "type": "Booster",
+    "expires": "14/07/2026"
+  },
+  "elver_gh0t4": {
+    "type": "Admin",
+    "expires": "15/09/2026"
+  },
+  "o_o90164": {
+    "type": "Booster",
+    "expires": "31/12/9999"
+  },
+  "zacharyh2014": {
+    "type": "Booster",
+    "expires": "19/07/2026"
+  },
+  "travis13220": {
+    "type": "Booster",
+    "expires": "31/12/9999"
+  },
+  "c4nibal666": {
+    "type": "Giveaway",
+    "expires": "20/09/2026"
+  },
+  "parzival90az": {
+    "type": "Admin",
+    "expires": null
+  },
+  "dorukimmm": {
+    "type": "Giveaway",
+    "expires": "12/12/9999"
+  },
+  "wd_yarenkiller": {
+    "type": "Giveaway",
+    "expires": "12/12/9999"
+  },
+  "hhik817": {
+    "type": "Admin",
+    "expires": "22/07/2026"
+  },
+  "anniellem3131": {
+    "type": "Giveaway",
+    "expires": "01/01/9999"
+  },
+  "king_minatoz777": {
+    "type": "Admin",
+    "expires": "10/07/2026"
+  },
+  "icm7_7mody": {
+    "type": "Booster",
+    "expires": "15/07/2026"
+  },
+  "caadell_bee": {
+    "type": "Admin",
+    "expires": null
+  },
+  "trollface564689": {
+    "type": "Admin",
+    "expires": "29/06/2026"
+  },
+  "benbirinek4": {
+    "type": "Giveaway",
+    "expires": "30/12/9999"
+  },
+  "sjadenbacon": {
+    "type": "Admin",
+    "expires": "07/07/2026"
+  },
+  "zfr300q": {
+    "type": "Admin",
+    "expires": "14/07/2026"
+  },
+  "enzoluiz19726": {
+    "type": "Admin",
+    "expires": null
+  },
+  "lanban_sword": {
+    "type": "Admin",
+    "expires": null
+  },
+  "pykaro4444": {
+    "type": "Admin",
+    "expires": "30/06/2026"
+  },
+  "h0llym0lly_hacker": {
+    "type": "Admin",
+    "expires": "01/07/2026"
+  },
+  "odeio_roblox342": {
+    "type": "Admin",
+    "expires": "30/07/2026"
+  },
+  "loadingstring76": {
+    "type": "Admin",
+    "expires": "10/07/2026"
+  },
+  "toidamiyt": {
+    "type": "Admin",
+    "expires": null
+  },
+  "yanheab123": {
+    "type": "Giveaway",
+    "expires": "05/07/2026"
+  },
+  "lucasiglesias2012": {
+    "type": "Admin",
+    "expires": "03/07/2026"
+  },
+  "b4c0n_ultrainstinct": {
+    "type": "Admin",
+    "expires": "07/07/2026"
+  },
+  "bking_z": {
+    "type": "Admin",
+    "expires": null
+  },
+  "robrokidia": {
+    "type": "Admin",
+    "expires": "(05/07/2026)"
+  },
+  "axe999999999999": {
+    "type": "Admin",
+    "expires": null
+  },
+  "abreujacob12": {
+    "type": "Admin",
+    "expires": "13/07/2026"
+  },
+  "d4rk_777sz2": {
+    "type": "Admin",
+    "expires": "07/07/2026"
+  },
+  "asdasda10102": {
+    "type": "Admin",
+    "expires": null
+  },
+  "ch_ract3r": {
+    "type": "Admin",
+    "expires": null
+  },
+  "korb_57": {
+    "type": "Booster",
+    "expires": "09/08/2026"
+  },
+  "shutown_7": {
+    "type": "Admin",
+    "expires": null
+  },
+  "amarramos": {
+    "type": "Admin",
+    "expires": "16/07/2026"
+  },
+  "yfedhss": {
+    "type": "Admin",
+    "expires": "21/08/2026"
+  },
+  "ilvyo01": {
+    "type": "Admin",
+    "expires": null
+  },
+  "vzyrep": {
+    "type": "Giveaway",
+    "expires": "13/09/2026"
+  },
+  "paznabatat": {
+    "type": "Admin",
+    "expires": null
+  },
+  "chatacox3_uw": {
+    "type": "Admin",
+    "expires": "29/07/2026"
+  },
+  "biomortis": {
+    "type": "Admin",
+    "expires": "25/07/2026"
+  }
+}
